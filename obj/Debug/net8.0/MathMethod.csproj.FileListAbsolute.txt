@@ -1,0 +1,14 @@
+C:\Users\Simran\Desktop\ASP.NET\MathMethod\bin\Debug\net8.0\MathMethod.exe
+C:\Users\Simran\Desktop\ASP.NET\MathMethod\bin\Debug\net8.0\MathMethod.deps.json
+C:\Users\Simran\Desktop\ASP.NET\MathMethod\bin\Debug\net8.0\MathMethod.runtimeconfig.json
+C:\Users\Simran\Desktop\ASP.NET\MathMethod\bin\Debug\net8.0\MathMethod.dll
+C:\Users\Simran\Desktop\ASP.NET\MathMethod\bin\Debug\net8.0\MathMethod.pdb
+C:\Users\Simran\Desktop\ASP.NET\MathMethod\obj\Debug\net8.0\MathMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simran\Desktop\ASP.NET\MathMethod\obj\Debug\net8.0\MathMethod.AssemblyInfoInputs.cache
+C:\Users\Simran\Desktop\ASP.NET\MathMethod\obj\Debug\net8.0\MathMethod.AssemblyInfo.cs
+C:\Users\Simran\Desktop\ASP.NET\MathMethod\obj\Debug\net8.0\MathMethod.csproj.CoreCompileInputs.cache
+C:\Users\Simran\Desktop\ASP.NET\MathMethod\obj\Debug\net8.0\MathMethod.dll
+C:\Users\Simran\Desktop\ASP.NET\MathMethod\obj\Debug\net8.0\refint\MathMethod.dll
+C:\Users\Simran\Desktop\ASP.NET\MathMethod\obj\Debug\net8.0\MathMethod.pdb
+C:\Users\Simran\Desktop\ASP.NET\MathMethod\obj\Debug\net8.0\MathMethod.genruntimeconfig.cache
+C:\Users\Simran\Desktop\ASP.NET\MathMethod\obj\Debug\net8.0\ref\MathMethod.dll
